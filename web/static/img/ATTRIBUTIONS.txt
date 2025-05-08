@@ -1,3 +1,1 @@
-These mascot images were made by CELPHASE (https://bsky.app/profile/celphase.bsky.social).
-
-These images are available under the terms of the MIT license that this repository uses.
+Copies Arch Linux's Images: https://wiki.archlinux.org/.within.website/x/cmd/anubis/static/img/*
